@@ -1,0 +1,20 @@
+.purple {
+  color: #4e2386;
+}
+
+.links {
+  margin-left: 40px;
+}
+
+.child {
+  margin-left: 40px;
+  list-style: circle;
+}
+
+.discord {
+  margin-left: 60px;
+}
+
+.connect {
+  margin-left: 20px;
+}
